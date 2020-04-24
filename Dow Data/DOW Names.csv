@@ -1,0 +1,31 @@
+Stock Name,Ticker,Industry,Sector
+3M Company,MMM,Specialty Industrial Machinery,Industrials
+American Express Company,AXP,Credit Services,Financial Services
+Apple Inc.,AAPL,Consumer Electronics,Technology
+The Boeing Company,BA,Aerospace & Defense,Industrials
+Caterpillar Inc.,CAT,Farm & Heavy Construction Machinery,Industrials
+Chevron Corporation,CVX,Oil & Gas Integrated,Energy
+"Cisco Systems, Inc.",CSCO,Communication Equipment,Technology
+The Coca-Cola Company,KO,Beverages?Non-Alcoholic,Consumer Defensive
+The Walt Disney Company,DIS,Entertainment,Communication Services
+Dow Inc.,DOW,Chemicals,Basic Materials
+Exxon Mobil Corporation,XOM,Oil & Gas Integrated,Energy
+"The Goldman Sachs Group, Inc.",GS,Capital Markets,Financial Services
+"The Home Depot, Inc.",HD,Home Improvement Retail,Consumer Cyclical
+International Business Machines Corporation,IBM,Information Technology Services,Technology
+Intel Corporation,INTC,Semiconductors,Technology
+Johnson & Johnson,JNJ,Drug Manufacturers?General,Healthcare
+JPMorgan Chase & Co.,JPM,Banks?Diversified,Financial Services
+McDonald's Corporation,MCD,Restaurants,Consumer Cyclical
+"Merck & Co., Inc.",MRK,Drug Manufacturers?General,Healthcare
+Microsoft Corporation,MSFT,Software?Infrastructure,Technology
+"NIKE, Inc.",NKE,Footwear & Accessories,Consumer Cyclical
+Pfizer Inc.,PFE,Drug Manufacturers?General,Healthcare
+The Procter & Gamble Company,PG,Household & Personal Products,Consumer Defensive
+"The Travelers Companies, Inc.",TRV,Insurance?Property & Casualty,Financial Services
+Raytheon Technologies Corporation,RTX,Aerospace & Defense,Industrials
+UnitedHealth,UNH,Healthcare Plans,Healthcare
+Verizon Communications Inc.,VZ,Telecom Services,Communication Services
+Visa Inc.,V,Credit Services,Financial Services
+"Walgreens Boots Alliance, Inc",WBA,Pharmaceutical Retailers,Healthcare
+Wal-Mart Inc.,WMT,Discount Stores,Consumer Defensive
